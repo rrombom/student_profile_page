@@ -1,4 +1,4 @@
 CREATE TABLE students (
-  id INT
+  id INT,
   name TEXT
 );
